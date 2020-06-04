@@ -13,7 +13,7 @@ If you have some deployment problem, please refer to its tips.
 
 ## Command-line options
 
-- To run the code, `cd` into the `experiments` directory and run `train_controller.py`:
+- To train, `cd` into the `experiments` directory and run `train_controller.py`:
 
 ``python3 train_controller.py``
 
