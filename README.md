@@ -1,8 +1,10 @@
 **Status:** Archive (code is provided as-is, no updates expected)
 
-# Multi-Agent Deep Deterministic Policy Gradient (MADDPG)
+# Multi-Agent Deep Deterministic Policy Gradient (MADDPG) for Dynamic Controller Assignment in Internet of Vehicles
+
 
 This is the code for implementing the MADDPG algorithm for dynamic controller assignment in Internet of Vehicles.
+It is based on the OpenAI MADDPG code: https://github.com/openai/maddpg.git
 
 ## Installation
 
