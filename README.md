@@ -91,4 +91,4 @@ has been provided), but does not continue training (default: `False`)
 
 - `"./multiagent/multiagent/`": multiagent enviroment
 
-- `"./multiagent/scenarios/simple_controller`": Scenario of controller in IoV
+- `"./multiagent/scenarios/simple_controller.py`": Scenario of controller in IoV
