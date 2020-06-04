@@ -13,7 +13,7 @@ It is based on the OpenAI MADDPG code: https://github.com/openai/maddpg.git
 
 ## Command-line options
 
-- To run the code, `cd` into the `experiments` directory and run `train.py`:
+- To run the code, `cd` into the `experiments` directory and run `train_controller.py`:
 
 ``python3 train_controller.py``
 
