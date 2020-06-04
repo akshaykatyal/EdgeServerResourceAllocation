@@ -4,7 +4,7 @@
 
 This is the code for implementing the MADDPG algorithm for dynamic controller assignment in SD-IoV.
 It is based on the OpenAI MADDPG code: https://github.com/openai/maddpg.git.
-If you have some deployment problem, please refer to tips under this code.
+If you have some deployment problem, please refer to its tips.
 
 ## Installation
 
