@@ -1,6 +1,6 @@
 import numpy as np
 from pyglet.window import key
-
+#policy agent follows the gaming controls for the key
 # individual agent policy
 class Policy(object):
     def __init__(self):

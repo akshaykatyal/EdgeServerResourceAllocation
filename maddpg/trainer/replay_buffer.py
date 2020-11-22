@@ -1,6 +1,6 @@
 import numpy as np
 import random
-
+#class replay buffer to restore the policy of the agent
 class ReplayBuffer(object):
     def __init__(self, size):
         """Create Prioritized Replay buffer.

@@ -1,15 +1,14 @@
-"""
-2D rendering framework
-"""
+
 from __future__ import division
 import os
 import six
 import sys
+#framework for the rendering of the environment
 
 if "Apple" in sys.version:
     if 'DYLD_FALLBACK_LIBRARY_PATH' in os.environ:
         os.environ['DYLD_FALLBACK_LIBRARY_PATH'] += ':/usr/lib'
-        # (JDS 2016/04/15): avoid bug on Anaconda 2.3.0 / Yosemite
+
 
 from gym.utils import reraise
 from gym import error
